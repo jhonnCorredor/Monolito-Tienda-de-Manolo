@@ -3,7 +3,7 @@
 👩‍💻👨‍💻 **Equipo de Desarrollo**
 - Karen Yulieth 👩‍💼
 - Carlos Andrés 👨‍💼
-- Heider Santiago 👨‍💼
+- Heyder Santiago 👨‍💼
 - Jhon Corredor 👨‍💼
 
 ## Introducción 🚀
